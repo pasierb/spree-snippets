@@ -1,0 +1,8 @@
+---
+pl:
+  snippets: "Fragmenty"
+  snippets_desc: "Zarządzalne fragmenty strony."
+  snippets_slug: "Slug"
+  snippets_content: "Treść"
+  new_snippet: "Nowy fragment"
+  editing_snippet: "Edytuj fragment"
